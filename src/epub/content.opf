@@ -79,8 +79,27 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-mixed-threesome.xhtml" id="a-mixed-threesome.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-woman-is-only-a-woman.xhtml" id="a-woman-is-only-a-woman.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chester-forgets-himself.xhtml" id="chester-forgets-himself.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/high-stakes.xhtml" id="high-stakes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/jane-gets-off-the-fairway.xhtml" id="jane-gets-off-the-fairway.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/keeping-in-with-vosper.xhtml" id="keeping-in-with-vosper.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ordeal-by-golf.xhtml" id="ordeal-by-golf.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rodney-fails-to-qualify.xhtml" id="rodney-fails-to-qualify.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sundered-hearts.xhtml" id="sundered-hearts.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-awakening-of-rollo-podmarsh.xhtml" id="the-awakening-of-rollo-podmarsh.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-clicking-of-cuthbert.xhtml" id="the-clicking-of-cuthbert.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-coming-of-gowf.xhtml" id="the-coming-of-gowf.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-heart-of-a-goof.xhtml" id="the-heart-of-a-goof.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-heel-of-achilles.xhtml" id="the-heel-of-achilles.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-long-hole.xhtml" id="the-long-hole.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-magic-plus-fours.xhtml" id="the-magic-plus-fours.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-purification-of-rodney-spelvin.xhtml" id="the-purification-of-rodney-spelvin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-rough-stuff.xhtml" id="the-rough-stuff.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-salvation-of-george-mackintosh.xhtml" id="the-salvation-of-george-mackintosh.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -88,6 +107,25 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="a-mixed-threesome.xhtml"/>
+		<itemref idref="a-woman-is-only-a-woman.xhtml"/>
+		<itemref idref="chester-forgets-himself.xhtml"/>
+		<itemref idref="high-stakes.xhtml"/>
+		<itemref idref="jane-gets-off-the-fairway.xhtml"/>
+		<itemref idref="keeping-in-with-vosper.xhtml"/>
+		<itemref idref="ordeal-by-golf.xhtml"/>
+		<itemref idref="rodney-fails-to-qualify.xhtml"/>
+		<itemref idref="sundered-hearts.xhtml"/>
+		<itemref idref="the-awakening-of-rollo-podmarsh.xhtml"/>
+		<itemref idref="the-clicking-of-cuthbert.xhtml"/>
+		<itemref idref="the-coming-of-gowf.xhtml"/>
+		<itemref idref="the-heart-of-a-goof.xhtml"/>
+		<itemref idref="the-heel-of-achilles.xhtml"/>
+		<itemref idref="the-long-hole.xhtml"/>
+		<itemref idref="the-magic-plus-fours.xhtml"/>
+		<itemref idref="the-purification-of-rodney-spelvin.xhtml"/>
+		<itemref idref="the-rough-stuff.xhtml"/>
+		<itemref idref="the-salvation-of-george-mackintosh.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
