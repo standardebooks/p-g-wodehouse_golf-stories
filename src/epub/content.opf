@@ -86,6 +86,7 @@
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-mixed-threesome.xhtml" id="a-mixed-threesome.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-woman-is-only-a-woman.xhtml" id="a-woman-is-only-a-woman.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/archibalds-benefit.xhtml" id="archibalds-benefit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chester-forgets-himself.xhtml" id="chester-forgets-himself.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/high-stakes.xhtml" id="high-stakes.xhtml" media-type="application/xhtml+xml"/>
@@ -112,6 +113,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="archibalds-benefit.xhtml"/>
 		<itemref idref="the-clicking-of-cuthbert.xhtml"/>
 		<itemref idref="a-woman-is-only-a-woman.xhtml"/>
 		<itemref idref="a-mixed-threesome.xhtml"/>
