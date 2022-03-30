@@ -20,3 +20,13 @@
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+#the-magic-plus-fours blockquote:first-of-type{
+	text-align: center;
+	text-indent: 0;
+}
