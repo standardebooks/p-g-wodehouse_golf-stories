@@ -39,12 +39,15 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Wodehouse’s golf stories featuring the Oldest Member.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse‘s&lt;/a&gt; short stories are often set in the salons and townhouses of the England but he also returned again and again to the subject of golf. Set against a background of the unique and often quirky world of golf in the early 1920s, Wodehouse produced a great collection of stories chronicling the loves and lives of the golf fanatic. Starting around 1919 he wrote these golf stories regularly for both American and English magazines and published two collections: &lt;i&gt;The Clicking of Cuthbert&lt;/i&gt; (1922) and &lt;i&gt;The Heart of a Goof&lt;/i&gt; (1926). He continued to write them until the mid 1960s.&lt;/p&gt;
+			&lt;p&gt;Most of the stories are narrated by The Oldest Member, a talkative type who frames most of the stories by trapping other members of the club into listening to his “words of wisdom.” The stories in this collection are ordered by the date they first appeared in magazine form and are mostly from the English editions—the main difference from the U.S. editions being the names and locations of clubs.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7028</dc:source>
 		<dc:source>https://archive.org/details/aclmku00000563a2212</dc:source>
 		<dc:source>https://archive.org/details/dli.ministry.13831</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/6768</dc:source>
+		<dc:source>https://archive.org/details/dli.ministry.16765</dc:source>
 		<meta property="se:production-notes">The stories from The Heart of a Goof were taken from the UK magazine versions and updated to match the 1926 book collection. An American version of The Heart of a Goof was published under the title of Golf without Tears (https://catalog.hathitrust.org/Record/101865073) which had all the locations were changed to the U.S. and other minor changes.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
