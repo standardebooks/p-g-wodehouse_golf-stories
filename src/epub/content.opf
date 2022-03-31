@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-03-31T20:36:19Z</dc:date>
+		<meta property="dcterms:modified">2022-03-31T20:36:19Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,8 +39,10 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Wodehouse’s golf stories featuring the Oldest Member.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse‘s&lt;/a&gt; short stories are often set in the salons and townhouses of the England but he also returned again and again to the subject of golf. Set against a background of the unique and often quirky world of golf in the early 1920s, Wodehouse produced a great collection of stories chronicling the loves and lives of the golf fanatic. Starting around 1919 he wrote these golf stories regularly for both American and English magazines and published two collections: &lt;i&gt;The Clicking of Cuthbert&lt;/i&gt; (1922) and &lt;i&gt;The Heart of a Goof&lt;/i&gt; (1926). He continued to write them until the mid 1960s.&lt;/p&gt;
-			&lt;p&gt;Most of the stories are narrated by The Oldest Member, a talkative type who frames most of the stories by trapping other members of the club into listening to his “words of wisdom.” The stories in this collection are ordered by the date they first appeared in magazine form and are mostly from the English editions—the main difference from the U.S. editions being the names and locations of clubs.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse‘s&lt;/a&gt; short stories are often set in the salons and townhouses of England, but he also returned again and again to the subject of golf.&lt;/p&gt;
+			&lt;p&gt;Set against a background of the unique and often quirky world of golf in the early 1920s, Wodehouse produced a great collection of stories chronicling the loves and lives of golf fanatics. Starting around 1919 he wrote these golf stories regularly for both American and English magazines, and published two collections: &lt;i&gt;The Clicking of Cuthbert&lt;/i&gt; (1922) and &lt;i&gt;The Heart of a Goof&lt;/i&gt; (1926). He continued to write golf stories until the mid 1960s.&lt;/p&gt;
+			&lt;p&gt;Most of these stories are narrated by The Oldest Member, a talkative type who frames most of the stories by trapping other members of the club into listening to his “words of wisdom.”&lt;/p&gt;
+			&lt;p&gt;The stories in this collection are ordered by the date they first appeared in magazine form, and are mostly from the English editions—the main difference from the U.S. editions being the names and locations of the golf clubs.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7028</dc:source>
@@ -49,8 +51,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/6768</dc:source>
 		<dc:source>https://archive.org/details/dli.ministry.16765</dc:source>
 		<meta property="se:production-notes">The stories from The Heart of a Goof were taken from the UK magazine versions and updated to match the 1926 book collection. An American version of The Heart of a Goof was published under the title of Golf without Tears (https://catalog.hathitrust.org/Record/101865073) which had all the locations were changed to the U.S. and other minor changes.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">134132</meta>
+		<meta property="se:reading-ease.flesch">74.19</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Clicking_of_Cuthbert</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Heart_of_a_Goof</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_golf-stories</meta>
@@ -79,6 +81,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
