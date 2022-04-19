@@ -6,12 +6,6 @@
 			<reason>The letters stand as single alphabetical letters not abbreviations</reason>
 		</ignore>
 	</file>
-	<file path="the-coming-of-gowf.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>The punctuation is for the sentence not the phrase so therefore outside the single quote</reason>
-		</ignore>
-	</file>
 	<file path="chester-forgets-himself.xhtml">
 		<ignore>
 			<code>t-041</code>
