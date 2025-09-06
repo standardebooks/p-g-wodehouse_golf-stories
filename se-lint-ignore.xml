@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="high-stakes.xhtml">
-		<ignore>
-			<code>t-029</code>
-			<reason>The letters stand as single alphabetical letters not abbreviations</reason>
-		</ignore>
-	</file>
 	<file path="chester-forgets-himself.xhtml">
 		<ignore>
 			<code>t-041</code>
 			<reason>The punctuation is used as dialogue</reason>
 		</ignore>
-	</file>
-	<file path="chester-forgets-himself.xhtml">
 		<ignore>
 			<code>y-017</code>
 			<reason>The punctuation is used as dialogue</reason>
+		</ignore>
+	</file>
+	<file path="high-stakes.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>The letters stand as single alphabetical letters not abbreviations</reason>
 		</ignore>
 	</file>
 	<file path="ordeal-by-golf.xhtml">
