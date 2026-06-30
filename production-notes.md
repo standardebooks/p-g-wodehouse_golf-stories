@@ -1,0 +1,1 @@
+The stories from The Heart of a Goof were taken from the UK magazine versions and updated to match the 1926 book collection. An American version of The Heart of a Goof was published under the title of Golf without Tears (https://catalog.hathitrust.org/Record/101865073) which had all the locations were changed to the U.S. and other minor changes.
