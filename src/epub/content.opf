@@ -76,6 +76,7 @@
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne L.</meta>
 		<dc:contributor id="transcriber-2">Charles Franks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Franks, Charles</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
